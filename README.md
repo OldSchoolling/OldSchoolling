@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @OldSchoolling
-- 👀 I’m interested in video games
-- 🌱 I’m currently learning how to make them as a work-study student
+- 👀 I’m interested in video games in development
+- 🌱 I’m currently unemployed looking for work
 - 📫 How to reach me: discord: @Old__
 
 <!---
